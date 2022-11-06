@@ -1,0 +1,21 @@
+.paper {
+    composes: paper from '../../features/auth/auth-base.css';
+    padding-bottom: 48px;
+}
+
+.title {
+    composes: title from '../../features/auth/auth-base.css';
+    margin-bottom: 29px;
+}
+
+.text {
+    composes: text from '../../features/auth/auth-base.css';
+    margin-top: 31px;
+    text-align: center;
+}
+
+.submit {
+    composes: submit from '../../features/auth/auth-base.css';
+    margin-top: 41px !important;
+    margin-bottom: 0 !important;
+}

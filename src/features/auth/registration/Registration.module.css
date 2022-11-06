@@ -1,0 +1,31 @@
+.paper {
+    composes: paper from '../auth-base.css';
+}
+
+.title {
+    composes: title from '../auth-base.css';
+}
+
+.wrapper {
+    composes: wrapper from '../auth-base.css';
+}
+
+.eye {
+    composes: eye from '../auth-base.css';
+}
+
+.submit {
+    composes: submit from '../auth-base.css';
+}
+
+.question {
+    composes: question from '../auth-base.css';
+}
+
+.signIn {
+    composes: ins from '../auth-base.css';
+}
+
+a:visited {
+    color: #366EFF !important;
+}

@@ -1,0 +1,45 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 250px;
+}
+
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.oops {
+    font-weight: 600;
+    font-size: 50px;
+    line-height: 61px;
+}
+
+.sorry {
+    margin-top: 11px;
+    font-weight: 500;
+    font-size: 17px;
+    line-height: 36px;
+}
+
+.back {
+    margin-top: 36px !important;
+    width: 218px;
+    height: 36px;
+    background-color: #366EFF !important;
+    border-radius: 30px !important;
+}
+
+.back:nth-child(n) {
+    text-transform: none;
+    font-weight: 500;
+    font-size: 16px;
+    color: #FFFFFF !important;
+}
+
+.container img {
+    margin-left: 200px;
+    width: 300px;
+}

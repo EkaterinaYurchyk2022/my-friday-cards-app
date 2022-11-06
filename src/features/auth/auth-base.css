@@ -1,0 +1,60 @@
+.paper {
+    margin: 60px auto 0;
+    width: 413px;
+    padding: 35px 33px 42px;
+    text-align: center;
+}
+
+.title {
+    font-size: 26px;
+    font-weight: 700;
+    line-height: 32px;
+}
+
+.wrapper {
+    position: relative;
+    height: 71px;
+}
+
+.eye {
+    position: absolute !important;
+    bottom: 22px;
+    right: 9px;
+    color: black !important;
+}
+
+.text {
+    margin-top:5px;
+    text-align: left;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    opacity: 0.5;
+}
+
+.submit {
+    border-radius: 30px !important;
+    width: 347px;
+    height: 36px;
+    background-color: #366EFF !important;
+    margin-top: 45px !important;
+    margin-bottom: 31px !important;
+    text-transform: none !important;
+    font-size: 16px !important;
+    font-weight: 500;
+}
+
+.question {
+    font-weight: 600;
+    font-size: 15px;
+    opacity: 0.5;
+}
+
+.ins {
+    display: block;
+    margin-top: 11px;
+    font-weight: 600;
+    font-size: 16px;
+    text-decoration-line: underline;
+    color: #366EFF;
+}

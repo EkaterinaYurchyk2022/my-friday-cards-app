@@ -1,0 +1,22 @@
+
+.table {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 30px;
+    margin-left: 10px;
+}
+
+
+.pack {
+    text-decoration: none;
+    color: #7b1fa2;
+}
+
+.pack:hover {
+    font-weight: bold;
+}
+
+.buttonBlock {
+    display: flex;
+}

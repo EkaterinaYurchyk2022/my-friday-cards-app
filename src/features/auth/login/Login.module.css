@@ -1,0 +1,32 @@
+.wrapper {
+    margin-top: 60px;
+    text-align: center;
+}
+
+.form {
+    max-width: 330px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    background: rgb(246, 218, 216);
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 14px 28px rgb(220, 158, 157), 0 10px 10px rgb(220, 158, 157);
+}
+
+.title {
+    text-align: center;
+    font-size: 80px;
+    color: black;
+}
+
+.textLink {
+    display: flex;
+    justify-content: right;
+    margin-bottom: 20px;
+}
+
+.input{
+    margin-bottom: 15px;
+    background-color: rgb(232, 240, 254)
+}
